@@ -1,4 +1,4 @@
-###################### R code for simulation of latent trait model with Bayesian rank likelihood method########################
+#R code for simulation of latent trait model with Bayesian rank likelihood method########################
 # Load necessary libraries
 library(LaplacesDemon)
 library(geoR)
